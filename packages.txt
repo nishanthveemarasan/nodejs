@@ -1,0 +1,4 @@
+nnpm install nodemon
+npm install --save express
+npm install --save body-parser //read the incoming data
+npm install --save ejs pug express-handlebars //pass the dynamic data into html files
